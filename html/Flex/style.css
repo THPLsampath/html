@@ -1,0 +1,30 @@
+.container > div{
+    border: 2px #000000 solid;
+    width: 33.33%;
+    height: 250px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.div1{
+    flex: 1;
+}
+
+.div2{
+    flex: 1;
+}
+
+.div3{
+    flex: 1;
+}
+
+.div4{
+    flex: 1;
+}
+
+.div5{
+    flex: 1;
+}
